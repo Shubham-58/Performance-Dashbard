@@ -15,4 +15,5 @@ Files titled Details and Order, contains cleaned CSV data.
 
 
 Would recommend opening this file in Power Bi and watch the filters work their wizardry—abracadabra, data drama!🧝‍♀️
+PDF version may lead to loss of visuals while exporting
 
